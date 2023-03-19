@@ -1,0 +1,1 @@
+import ReactStars from "./node_modules/react-rating-stars-component/dist/react-stars";
