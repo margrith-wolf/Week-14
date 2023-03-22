@@ -1,12 +1,12 @@
 import './App.css';
-import Reviews from './Components/Reviews';
+import ReviewList from './Components/ReviewList';
 
 
 function App() {
   return (
     <>
       <div className="App">
-        <Reviews/>
+        <ReviewList/>
       </div>
     </>
   );
